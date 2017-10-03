@@ -1,4 +1,4 @@
-PREFIX=/usr/local
+PREFIX=/usr/local/stow/vimpager
 prefix=${PREFIX}
 SYSCONFDIR=${prefix}/etc
 INSTALL=./scripts/install-sh
